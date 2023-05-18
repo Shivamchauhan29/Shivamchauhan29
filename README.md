@@ -2,7 +2,7 @@
 
 <div>
  
-<span align="center">
+<span align="centre">
   <!-- Your languages and tools. Be carefufal with the alignment.
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
