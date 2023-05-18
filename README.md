@@ -32,7 +32,7 @@
 </p>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr__shivam_chauhan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr__shivam_chauhan_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-chauhan-9156071a3/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shivamchauhan29)
 [![Twitter](https://img.shields.io/twitter/follow/shivamchauhan29?logo=Twitter&style=for-the-badge)](https://twitter.com/shivamchauhan29)
