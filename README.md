@@ -1,14 +1,23 @@
 ### Hi there 👋
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamchauhan29&theme=vue"/>
+</p>
 
-# 📊 GitHub Stats:
-![stats](https://github-readme-stats.vercel.app/api?username=shivamchauhan29&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=shivamchauhan29&no-bg=true&no-frame=true&column=4&theme=algolia)
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivamchauhan29&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchauhan29&theme=vue" />
+</p>
 
-![graph](https://github-readme-activity-graph.cyclic.app/graph?username=shivamchauhan29&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr__shivam_chauhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-chauhan-9156071a3/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shivamchauhan29)
+[![Twitter](https://img.shields.io/twitter/follow/shivamchauhan29?logo=Twitter&style=for-the-badge)](https://twitter.com/shivamchauhan29)
 
-![streak](https://github-contributor-stats.vercel.app/api?username=shivamchauhan29&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![streak](https://streak-stats.demolab.com/?user=shivamchauhan29&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
+
 
 
 <strong>Holopin badges</strong>
