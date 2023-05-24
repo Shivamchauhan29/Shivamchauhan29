@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <div>
  
 <span align="centre">
@@ -22,13 +21,16 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamchauhan29&theme=vue"/>
-</p>
+	
+  <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamchauhan29&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamchauhan29&theme=vue"/>
+</p> 
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivamchauhan29&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchauhan29&theme=vue" />
+	
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivamchauhan29&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchauhan29&theme=vue" />
 </p>
 
 ## 🌐 Socials
