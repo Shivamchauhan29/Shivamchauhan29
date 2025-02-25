@@ -1,54 +1,80 @@
-<!-- ### Hi there 👋 -->
-<div>
- 
-<span align="centre">
-  <!-- Your languages and tools. Be carefufal with the alignment.
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+### 👋 Hi there! I'm **Shivam Chauhan**  
+
+🚀 **Product Manager at VoyageX AI** | 🎯 **SaaS & AI Enthusiast** 
+
+💡 Passionate about **AI, ML and SaaS**  
+🔍 Currently working on **AI-powered Shipping Solutions & Smart AI agents**  
+🌍 Exploring ways to **optimize fleet operations in the shipping industry**  
+
+---
+
+## 🛠️ Tech Stack  
+
+<div align="center">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <br/>
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  
-   <br/>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-</span>
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
+</div>
 
+---
 
-## 💳 Github Profile Summary Card
+## 📊 GitHub Profile Summary  
+
 <p align="center">
-	
-  <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamchauhan29&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamchauhan29&theme=vue"/>
-</p> 
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamchauhan29&theme=github_dark&title_color=ffffff&text_color=c9d1d9" />
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamchauhan29&theme=github_dark"/>
+</p>  
 
-## 📟 GitHub Stats
+---
+
+## 📟 GitHub Stats  
+
 <p align="center">
-	
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivamchauhan29&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchauhan29&theme=vue" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivamchauhan29&theme=github_dark&title_color=ffffff&text_color=c9d1d9" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchauhan29&theme=github-dark-blue" />
+</p>  
+
+---
+
+## 🌍 Connect with Me  
+
+<p align="center">
+  <a href="https://instagram.com/shivamchauhan2310_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>  
+  <a href="https://www.linkedin.com/in/shivamchauhan29/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>  
+  <a href="https://medium.com/@shivamchauhan29">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>  
+  <a href="https://twitter.com/shivamchauhan29">
+    <img src="https://img.shields.io/twitter/follow/shivamchauhan29?logo=Twitter&style=for-the-badge"/>
+  </a>  
 </p>
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivamchauhan2310_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamchauhan29/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shivamchauhan29)
-[![Twitter](https://img.shields.io/twitter/follow/shivamchauhan29?logo=Twitter&style=for-the-badge)](https://twitter.com/shivamchauhan29)
+---
 
+### 🏆 Holopin Badges  
+<p align="center">
+  <a href="https://holopin.io/@shivamchauhan29">
+    <img src="https://holopin.me/@shivamchauhan29" alt="@shivamchauhan29's Holopin board"/>
+  </a>
+</p>  
 
-
-
-<strong>Holopin badges</strong>
-
-[![@shivamchauhan29's Holopin board](https://holopin.me/@shivamchauhan29)](https://holopin.io/@shivamchauhan29)
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamchauhan29&theme=darkhub&margin-w=15&row=1" />
+</p>
