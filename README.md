@@ -98,12 +98,13 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamchauhan29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchauhan29&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="profile-summary-card-output/tokyonight/3-stats.svg"/>
+<img height="165" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
+
+<img height="165" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
+<img height="165" src="profile-summary-card-output/tokyonight/4-productive-time.svg"/>
 
 <img src="https://streak-stats.demolab.com/?user=shivamchauhan29&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamchauhan29&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=ffffff"/>
 
 </div>
 
