@@ -63,12 +63,32 @@ flowchart LR
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/shivamchauhan29/AI-Video-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=AI-Video-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
-<td width="50%"><a href="https://github.com/shivamchauhan29/ad-creative-intelligence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=ad-creative-intelligence&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/shivamchauhan29/AI-Video-Assistant">🎥 AI Video Assistant</a></h3>
+<p>YouTube/local audio → transcript → summary → extraction → RAG chat.</p>
+<img src="https://img.shields.io/github/languages/top/shivamchauhan29/AI-Video-Assistant?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
+<img src="https://img.shields.io/github/last-commit/shivamchauhan29/AI-Video-Assistant?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/shivamchauhan29/ad-creative-intelligence">📈 Ad Creative Intelligence</a></h3>
+<p>Multimodal ML model that predicts ad-creative performance.</p>
+<img src="https://img.shields.io/github/languages/top/shivamchauhan29/ad-creative-intelligence?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
+<img src="https://img.shields.io/github/last-commit/shivamchauhan29/ad-creative-intelligence?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/shivamchauhan29/REPO_ML_ATLAS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=REPO_ML_ATLAS&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
-<td width="50%"><a href="https://github.com/shivamchauhan29/hyginox-shine-spark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=hyginox-shine-spark&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/shivamchauhan29/hyginox-shine-spark">🧴 Hyginox Platform</a></h3>
+<p>Next.js storefront + editorial CMS with built-in SEO scoring.</p>
+<img src="https://img.shields.io/github/languages/top/shivamchauhan29/hyginox-shine-spark?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
+<img src="https://img.shields.io/github/last-commit/shivamchauhan29/hyginox-shine-spark?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/shivamchauhan29/rise-spark-growth-hub">🚀 Rise Spark Growth Hub</a></h3>
+<p>Edit this one-line description.</p>
+<img src="https://img.shields.io/github/languages/top/shivamchauhan29/rise-spark-growth-hub?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
+<img src="https://img.shields.io/github/last-commit/shivamchauhan29/rise-spark-growth-hub?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
+</td>
 </tr>
 </table>
 
