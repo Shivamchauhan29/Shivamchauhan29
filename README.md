@@ -63,12 +63,12 @@ flowchart LR
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/shivamchauhan29/REPO_AI_VIDEO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=REPO_AI_VIDEO&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
-<td width="50%"><a href="https://github.com/shivamchauhan29/REPO_AD_INTEL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=REPO_AD_INTEL&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
+<td width="50%"><a href="https://github.com/shivamchauhan29/AI-Video-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=AI-Video-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
+<td width="50%"><a href="https://github.com/shivamchauhan29/ad-creative-intelligence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=ad-creative-intelligence&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/shivamchauhan29/REPO_ML_ATLAS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=REPO_ML_ATLAS&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
-<td width="50%"><a href="https://github.com/shivamchauhan29/REPO_HYGINOX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=REPO_HYGINOX&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
+<td width="50%"><a href="https://github.com/shivamchauhan29/hyginox-shine-spark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=hyginox-shine-spark&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
 </tr>
 </table>
 
