@@ -120,16 +120,25 @@ flowchart LR
 
 ## ✍️ Latest Writing
 
-<!-- BLOG-POST-LIST:START --><td width="33%" valign="top"><h3>🔥</h3><a href="https://medium.com/@shivamchauhan29/firebase-9-0-a-new-era-of-app-development-65214f2834b8?source=rss-6661d103da27------2"><b>Firebase 9.0: A New Era of App Development</b></a><br/><br/><sub>📅 Jun 8, 2023</sub></td><td width="33%" valign="top"><h3>🚀</h3><a href="https://medium.com/@shivamchauhan29/gatsby-the-next-generation-of-static-site-generators-f264bca5a5bc?source=rss-6661d103da27------2"><b>Gatsby: The Next Generation of Static Site Generators</b></a><br/><br/><sub>📅 May 18, 2023</sub></td><td width="33%" valign="top"><h3>📝</h3><a href="https://medium.com/@shivamchauhan29/mastering-wordpress-development-essential-tips-and-tricks-d8107a44d280?source=rss-6661d103da27------2"><b>Mastering WordPress Development: Essential Tips and Tricks</b></a><br/><br/><sub>📅 May 17, 2023</sub></td><!-- BLOG-POST-LIST:END -->
-
----
+<table>
+<tr>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shivamchauhan29/shivamchauhan29/output/github-snake-dark.svg" alt="snake"/>
+<a href="https://medium.com/@shivamchauhan29"><img src="https://img.shields.io/badge/Read%20more%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivamchauhan29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shivamchauhan29/shivamchauhan29/output/github-snake-dark.svg" alt="snake" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
 
 </div>
