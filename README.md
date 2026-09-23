@@ -55,6 +55,18 @@
 
 ---
 
+## 📌 Projects
+
+| Project | Repository |
+|---|---|
+| Hyginox Shine Spark | [hyginox-shine-spark](https://github.com/Shivamchauhan29/hyginox-shine-spark) |
+| AI Video Assistant | [AI-Video-Assistant](https://github.com/Shivamchauhan29/AI-Video-Assistant) |
+| Ad Creative Intelligence | [ad-creative-intelligence](https://github.com/Shivamchauhan29/ad-creative-intelligence) |
+| Rise Spark Growth Hub | [rise-spark-growth-hub](https://github.com/Shivamchauhan29/rise-spark-growth-hub) |
+| StudyPrep | [studyprep](https://github.com/Shivamchauhan29/studyprep) |
+
+---
+
 ## 🌍 Connect with Me  
 
 <p align="center">
