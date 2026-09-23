@@ -13,5 +13,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@shivamchauhan29"
-          max_post_count: 5
+          max_post_count: 3
+          date_format: "mmm d, yyyy"
+          template: '<td width="33%" valign="top"><h3>$randomEmoji(📝,🚀,💡,🔥,⚡)</h3><a href="$url"><b>$title</b></a><br/><br/><sub>📅 $date</sub></td>'
           commit_message: "chore: update blog posts"
