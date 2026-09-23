@@ -1,99 +1,127 @@
-### 👋 Hi there! I'm **Shivam Chauhan**  
-
-🚀 **Product Manager at VoyageX AI** | 🎯 **SaaS & AI Enthusiast** 
-
-💡 Passionate about **AI, ML and SaaS**  
-🔍 Currently working on **AI-powered Shipping Solutions & Smart AI agents**  
-🌍 Exploring ways to **optimize fleet operations in the shipping industry**  
-
----
-
-## 🛠️ Tech Stack  
-
 <div align="center">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
- 
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  </br>
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-  
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-<!--   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrapy/scrapy-original.svg"> -->
-<!--   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beautifulsoup/beautifulsoup-original.svg"> -->
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Shivam%20Chauhan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C3%97%20Product%20Manager%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Multimodal%20ML&descAlignY=60&descSize=17" width="100%"/>
+
+<a href="https://github.com/shivamchauhan29">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&lines=Turning+raw+audio+into+searchable+intelligence;Predicting+ad+performance+with+multimodal+ML;Shipped+AI+features+in+maritime+ERP;Building+Hyginox%3A+D2C+brand+%2B+Next.js+stack" alt="typing"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/shivamchauhan29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@shivamchauhan29"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+<a href="https://twitter.com/shivamchauhan29"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="https://hyginox.in"><img src="https://img.shields.io/badge/Hyginox.in-0A8F6A?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Open%20to-AI%20Eng%20%2F%20AI%20PM%20roles-7AA2F7?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=shivamchauhan29&style=flat-square&color=7AA2F7&label=PROFILE+VIEWS"/>
+
 </div>
 
+---
+
+## `~/whoami`
+
+```python
+class Shivam:
+    role       = ["AI Engineer", "Product Manager"]
+    education  = "M.Tech Data Science @ Delhi Technological University (2025–27)"
+    experience = ["VoyageX AI — AI features in maritime ERP", "Zerobug — enterprise software"]
+    founder_of = "Hyginox — Active Oxygen home-hygiene brand (hyginox.in)"
+    building   = ["LLM + RAG apps", "multimodal ML", "SEO-driven Next.js platforms"]
+    stack      = ["Python", "PyTorch", "FastAPI", "Next.js", "Firebase", "GCP"]
+    open_to    = "AI Engineer / AI PM roles · collaborations · open source"
+
+    def ship(self):
+        return "idea → prototype → production → measure"
+```
 
 ---
 
-## 📊 GitHub Profile Summary  
+## 🧠 Featured Build — AI Video Assistant
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamchauhan29&theme=github_dark&title_color=ffffff&text_color=c9d1d9" />
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamchauhan29&theme=github_dark"/>
-</p>  
+> End-to-end meeting intelligence: any YouTube link or local audio → transcript, summary, structured extraction, and chat.
 
----
-
-## 📟 GitHub Stats  
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivamchauhan29&theme=github_dark&title_color=ffffff&text_color=c9d1d9" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchauhan29&theme=github-dark-blue" />
-</p>  
-
----
-
-## 📌 Projects
-
-| Project | Repository |
-|---|---|
-| Hyginox Shine Spark | [hyginox-shine-spark](https://github.com/Shivamchauhan29/hyginox-shine-spark) |
-| AI Video Assistant | [AI-Video-Assistant](https://github.com/Shivamchauhan29/AI-Video-Assistant) |
-| Ad Creative Intelligence | [ad-creative-intelligence](https://github.com/Shivamchauhan29/ad-creative-intelligence) |
-| Rise Spark Growth Hub | [rise-spark-growth-hub](https://github.com/Shivamchauhan29/rise-spark-growth-hub) |
-| StudyPrep | [studyprep](https://github.com/Shivamchauhan29/studyprep) |
+```mermaid
+flowchart LR
+    A[YouTube / Local Audio] --> B[ASR Transcription]
+    B --> C[Transcript]
+    C --> D[LLM Summarizer]
+    C --> E[Structured Extraction<br/>actions · decisions · owners]
+    C --> F[Chunk + Embed]
+    F --> G[(Vector Store)]
+    G --> H[RAG Chat]
+    D --> I[Meeting Brief]
+    E --> I
+    H --> I
+    classDef core fill:#1a1b26,stroke:#7aa2f7,color:#c0caf5;
+    class A,B,C,D,E,F,G,H,I core;
+```
 
 ---
 
-## 🌍 Connect with Me  
+## 🚀 Projects
 
-<p align="center">
-  <a href="https://instagram.com/shivamchauhan2310_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>  
-  <a href="https://www.linkedin.com/in/shivamchauhan29/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  
-  <a href="https://medium.com/@shivamchauhan29">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>  
-  <a href="https://twitter.com/shivamchauhan29">
-    <img src="https://img.shields.io/twitter/follow/shivamchauhan29?logo=Twitter&style=for-the-badge"/>
-  </a>  
-</p>
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/shivamchauhan29/REPO_AI_VIDEO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=REPO_AI_VIDEO&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
+<td width="50%"><a href="https://github.com/shivamchauhan29/REPO_AD_INTEL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=REPO_AD_INTEL&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/shivamchauhan29/REPO_ML_ATLAS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=REPO_ML_ATLAS&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
+<td width="50%"><a href="https://github.com/shivamchauhan29/REPO_HYGINOX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamchauhan29&repo=REPO_HYGINOX&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a></td>
+</tr>
+</table>
+
+| | Project | Impact |
+|:-:|---|---|
+| 🎥 | **AI Video Assistant** | Transcript → summary → extraction → RAG chat in one pipeline |
+| 📈 | **Ad Creative Intelligence** | Multimodal model that predicts ad-creative performance |
+| 📚 | **ML Atlas** | Large-scale interactive ML learning platform |
+| 🧴 | **Hyginox Platform** | Next.js storefront + editorial CMS with built-in SEO scoring |
+| 📄 | **Document Boundary Segmentation** | U-Net for document boundary detection |
 
 ---
 
-### 🏆 Holopin Badges  
-<p align="center">
-  <a href="https://holopin.io/@shivamchauhan29">
-    <img src="https://holopin.me/@shivamchauhan29" alt="@shivamchauhan29's Holopin board"/>
-  </a>
-</p>  
+## ⚡ Tech Arsenal
 
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamchauhan29&theme=darkhub&margin-w=15&row=1" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,js,nodejs,react,nextjs,tailwind,dart,java&theme=dark&perline=11"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase,gcp,docker,git,github,githubactions,selenium&theme=dark&perline=11"/>
+
+</div>
+
+---
+
+## 📊 Live Telemetry
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamchauhan29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchauhan29&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://streak-stats.demolab.com/?user=shivamchauhan29&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamchauhan29&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=ffffff"/>
+
+</div>
+
+---
+
+## ✍️ Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shivamchauhan29/shivamchauhan29/output/github-snake-dark.svg" alt="snake"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivamchauhan29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
+
+</div>
