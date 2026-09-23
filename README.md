@@ -76,20 +76,8 @@ flowchart LR
 <img src="https://img.shields.io/github/last-commit/shivamchauhan29/ad-creative-intelligence?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/shivamchauhan29/hyginox-shine-spark">🧴 Hyginox Platform</a></h3>
-<p>Next.js storefront + editorial CMS with built-in SEO scoring.</p>
-<img src="https://img.shields.io/github/languages/top/shivamchauhan29/hyginox-shine-spark?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
-<img src="https://img.shields.io/github/last-commit/shivamchauhan29/hyginox-shine-spark?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/shivamchauhan29/rise-spark-growth-hub">🚀 Rise Spark Growth Hub</a></h3>
-<p>Edit this one-line description.</p>
-<img src="https://img.shields.io/github/languages/top/shivamchauhan29/rise-spark-growth-hub?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
-<img src="https://img.shields.io/github/last-commit/shivamchauhan29/rise-spark-growth-hub?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
-</td>
-</tr>
+
+
 </table>
 
 | | Project | Impact |
