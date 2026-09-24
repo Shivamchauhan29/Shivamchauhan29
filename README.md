@@ -122,8 +122,7 @@ flowchart LR
 
 <table>
 <tr>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><td width="33%" valign="top"><h3>🔥</h3><a href="https://medium.com/@shivamchauhan29/firebase-9-0-a-new-era-of-app-development-65214f2834b8?source=rss-6661d103da27------2"><b>Firebase 9.0: A New Era of App Development</b></a><br/><br/><sub>📅 Jun 8, 2023</sub></td><td width="33%" valign="top"><h3>🚀</h3><a href="https://medium.com/@shivamchauhan29/gatsby-the-next-generation-of-static-site-generators-f264bca5a5bc?source=rss-6661d103da27------2"><b>Gatsby: The Next Generation of Static Site Generators</b></a><br/><br/><sub>📅 May 18, 2023</sub></td><td width="33%" valign="top"><h3>📝</h3><a href="https://medium.com/@shivamchauhan29/mastering-wordpress-development-essential-tips-and-tricks-d8107a44d280?source=rss-6661d103da27------2"><b>Mastering WordPress Development: Essential Tips and Tricks</b></a><br/><br/><sub>📅 May 17, 2023</sub></td><!-- BLOG-POST-LIST:END -->
 </tr>
 </table>
 
