@@ -64,7 +64,7 @@ flowchart LR
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/shivamchauhan29/AI-Video-Assistant">🎥 AI Video Assistant</a></h3>
+<h3><a href="https://github.com/shivamchauhan29/AI-Video-Assistant">🎥 Video Intelligence & Content Repurposing Platform</a></h3>
 <p>YouTube/local audio → transcript → summary → extraction → RAG chat.</p>
 <img src="https://img.shields.io/github/languages/top/shivamchauhan29/AI-Video-Assistant?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
 <img src="https://img.shields.io/github/last-commit/shivamchauhan29/AI-Video-Assistant?style=for-the-badge&color=7AA2F7&labelColor=1a1b26"/>
